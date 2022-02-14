@@ -21,4 +21,5 @@ dist/
 /grid_searches
 summaries/panels/
 tutorials/data/
+tutorials/raw
 tutorials/panels/
